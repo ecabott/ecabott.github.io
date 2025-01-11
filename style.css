@@ -420,6 +420,17 @@ article .icon {
   height: 2.5rem;
 }
 
+/* Footer Section */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1200px) {
