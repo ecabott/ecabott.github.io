@@ -53,3 +53,13 @@ ul > li {
   justify-content: center;
   align-items: center;
 }
+
+.muffin {
+  width: 5vh;
+}
+
+.name-logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
